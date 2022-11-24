@@ -1,2 +1,2 @@
 # gittest
-updatig
+update
